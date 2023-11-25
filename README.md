@@ -1,1 +1,0 @@
-# sveltekit-auth-example
